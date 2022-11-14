@@ -68,9 +68,15 @@
 
   
 
-- 
+- 2.구독형 서비스 관련 이메일 [https://github.com/ether/ep_email_notifications]
+   
+   - 라이선스 : Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.)
 
-- 
+   - 해당 패드 프로그램 구독 기능 포함
+   - 해당 프로그램의 변경사항이 있을 경우 업데이트 하여 이메일 보내기 기능
+   - 그 이메일 보내는 기능의 빈도수 변경 가능
+
+   - 해당 오픈소스를 활용하기 위해서는 이 
 
 - 
 
