@@ -68,7 +68,18 @@
 
   
 
-- 
+- [Simple Calendar](https://github.com/SimpleMobileTools/Simple-Calendar)
+
+  라이선스 : GNU General Public License version 3.0 (GPLv3)
+
+  특징
+
+  - 유연한 일정 생성 - 시간, 기간,  미리알림
+  - 일간, 주간, 월간, 연간 표시 전환 가능
+  - 구글 캘린더 및 기타 유사한 캘린더와 동기화 가능
+  - 인터넷 액세스 필요하지 않음
+
+  이용목적 : 구독중인 서비스의 이용기간 및 결제일을 확인할 수 있고 필요 시 미리 알림을 받을 수 있다.
 
 - 
 
