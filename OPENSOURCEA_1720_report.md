@@ -68,17 +68,22 @@
 
   
 
-- 
+- [ottsharing](https://github.com/f-lab-edu/ottsharing)
+	
+	라이선스 : MIT license
 
-- 
+	특징
 
-- 
+	- Spring JPA를 사용한 Relational DB와 Object의 매핑
+	- Spring Web를 사용한 RESTful API 구현
+	- Spring Scheduler를 사용한 정산 스케줄러 구현
 
-- 
+	- 파티장이 계정을 공유하여 파티를 개설 가능
+	- 파티원 최대 3명에게 공유 가능
+	- 구독료 정산 스케줄러로 각자 정산 관리 가능
 
-- 
+	이용 목적 : OTT계정을 쉐어링한 멤버를 초대하여 정산해야할 구독료 확인 가능
 
-- 
 
   
 
