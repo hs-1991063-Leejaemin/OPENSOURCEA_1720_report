@@ -3,5 +3,6 @@
 - TimeCat [https://github.com/iodes/TimeCat]
 - 해당 기능은 구독 서비스의 이용 시간을 분석하여 사용량이 적은 서비스의 해지를 권하는 기능임
 - 이용 목적 : 앱 이용 시간을 분석하기 위함
+
 -	License : MIT License
 -	해당 오픈소스는 앱을 얼마나 사용했는지 보여줌
