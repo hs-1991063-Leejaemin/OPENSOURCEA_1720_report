@@ -42,7 +42,7 @@
 
 
 
-![1720_DFD](C:\Users\SJ\Downloads\1720_DFD.PNG)
+![1720_DFD](https://user-images.githubusercontent.com/115939179/202832052-99a8ebf2-1698-438d-8754-d4deba1f5f00.PNG)
 
 
 
