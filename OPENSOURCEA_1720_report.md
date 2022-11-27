@@ -183,6 +183,14 @@
   이용 목적 : 구독서비스 이용 경향 파악과 개인용 추천 기능을 위해 웹 방문 시 사용자의 데이터들을 기록하고 분석하여 저장한다.
 
 
+- TimeCat [https://github.com/iodes/TimeCat]
+- 해당 기능은 구독 서비스의 이용 시간을 분석하여 사용량이 적은 서비스의 해지를 권하는 기능임
+- 이용 목적 : 앱 이용 시간을 분석하기 위함
+
+-	License : MIT License
+-	해당 오픈소스는 앱을 얼마나 사용했는지 보여줌
+
+
 - [ottsharing](https://github.com/f-lab-edu/ottsharing)
 	
   라이선스 : MIT 라이선스
@@ -198,4 +206,11 @@
    이용 목적 : OTT계정을 쉐어링한 멤버를 초대하여 정산해야할 구독료 확인 가능
 
 
+ - Cloud Translation API [https://github.com/googleapis/nodejs-translate]
+ - 구독 서비스 중 어도비, 넷플릭스, 디즈니 플러스 등과 같이 해외 기업이 많기 때문에 외국어로 된 메일이 오는 경우가 많은데 그 메일을 바로 한국어나 자국의 언어로 번역해주는 기능
+
+ - 해당 오픈소스는 구글 Cloud Translation API로 천개가 넘는 언어간 텍스트를 실시간으로 번역함
+ -	Cloud Translation API는 구글의 클라우드 머신 러닝 API 중 일부분.
+ -	Cloud Translation Node.js Client API Reference
+ -	License : Apache Version 2.0
 
