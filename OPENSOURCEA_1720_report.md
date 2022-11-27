@@ -66,6 +66,32 @@
 
 ---
 
+- [Beautiful Soup](https://code.launchpad.net/~leonardr/beautifulsoup/bs4)
+
+  라이선스: MIT 라이선스
+
+  특징
+
+  - HTML, XML등의 문서 파싱을 위한 파이썬 패키지
+  - HTML, XML 문서를 파싱하여 parse tree 를 만들어 효율적인 탐색, 검색, 수정을 간단한 방법을 통해 지원
+
+  이용 목적: 구독 서비스를 제공하는 회사들의 홈페이지를 크롤링하여, 결제 요금 및 관련 정보를 DB에 저장한다.
+
+
+- [MySQL](https://github.com/mysql/mysql-server)
+
+  라이선스 : GPL 2 / 상용 라이선스
+
+  특징
+
+  - 무료 버전(GPL 2)과 유료 버전(자체 상용라이선스) 존재
+  - 다양한 프로그래밍 언어를 위한 API 제공
+  - 크기가 큰 데이터 집합을 빠르고 효과적으로 처리할 수 있으며, 표준 SQL 형식 지원
+  - 타 라이선스와의 충돌을 방지하기 위해 자체 상용 라이선스를 구매
+
+  이용 목적: Beautiful Soup를 통해 크롤링한 정보를 저장해두고, 사용자의 검색 요청시 해당 DB에서 검색하여 결과를 제공한다.
+
+
 - [php-imap](https://github.com/barbushin/php-imap)
 
   라이선스 : MIT 라이선스
@@ -82,51 +108,18 @@
 
   이용 목적 : 사용자 이메일로 오는 구독 서비스 관련 정보를 필터링을 통해 각각의 구독 서비스 별로 보여주고 나에게 필요 없는 이메일인 경우 삭제 및 숨김 표시 할 수 있다.  
 
-  
 
-- [Beautiful Soup](https://code.launchpad.net/~leonardr/beautifulsoup/bs4)
-
-  라이선스: MIT 라이선스
-
-  특징
-
-  - HTML, XML등의 문서 파싱을 위한 파이썬 패키지
-  - HTML, XML 문서를 파싱하여 parse tree 를 만들어 효율적인 탐색, 검색, 수정을 간단한 방법을 통해 지원
-
-  이용 목적: 구독 서비스를 제공하는 회사들의 홈페이지를 크롤링하여, 결제 요금 및 관련 정보를 DB에 저장한다.
-
-- [MySQL](https://github.com/mysql/mysql-server)
-
-  라이선스 : GPL 2 / 상용 라이선스
+- [ottsharing](https://github.com/f-lab-edu/ottsharing)
+	
+  라이선스 : MIT 라이선스
 
   특징
+  - 파티장이 계정을 공유하여 파티를 개설 가능
+  - 파티원 최대 3명에게 공유 가능
+  - 구독료 정산 스케줄러로 각자의  구현 가능
+  - Spring JPA를 사용한 Relational DB와 Object의 매핑
+  - Spring Web를 사용한 RESTful API 구현
+  - Spring Scheduler를 사용한 정산 스케줄러 구현
 
-  - 무료 버전(GPL 2)과 유료 버전(자체 상용라이선스) 존재
-  - 다양한 프로그래밍 언어를 위한 API 제공
-  - 크기가 큰 데이터 집합을 빠르고 효과적으로 처리할 수 있으며, 표준 SQL 형식 지원
-  - 타 라이선스와의 충돌을 방지하기 위해 자체 상용 라이선스를 구매
-
-  이용 목적: Beautiful Soup를 통해 크롤링한 정보를 저장해두고, 사용자의 검색 요청시 해당 DB에서 검색하여 결과를 제공한다.
-
-- 
-
-- 
-
-- 
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-
-
-
- 
+   이용 목적 : OTT계정을 쉐어링한 멤버를 초대하여 정산해야할 구독료 확인 가능
 
