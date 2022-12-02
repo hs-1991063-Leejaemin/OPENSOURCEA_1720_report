@@ -1,8 +1,0 @@
-번역 기능
- - Cloud Translation API [https://github.com/googleapis/nodejs-translate]
- - 구독 서비스 중 어도비, 넷플릭스, 디즈니 플러스 등과 같이 해외 기업이 많기 때문에 외국어로 된 메일이 오는 경우가 많은데 그 메일을 바로 한국어나 자국의 언어로 번역해주는 기능
-
- - 해당 오픈소스는 구글 Cloud Translation API로 천개가 넘는 언어간 텍스트를 실시간으로 번역함
- -	Cloud Translation API는 구글의 클라우드 머신 러닝 API 중 일부분.
- -	Cloud Translation Node.js Client API Reference
- -	License : Apache Version 2.0
